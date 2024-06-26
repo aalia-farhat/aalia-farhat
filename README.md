@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there! 👋 I'm an undergrad student currently pursuing a degree in Electronics and Communication Engineering (ECE). I'm passionate about blending hardware and software solutions to create innovative and impactful projects. My interests include embedded systems, IoT, and software development, and I enjoy taking on challenges that push me to expand my knowledge and skills.<br><br>🔧 Skills: Python, C, HTML/CSS, MATLAB, Markdown, Postman<br><br>🌱 Currently Learning: API Documentation<br><br>📫 Reach me at:<br><br>✉️ Email: aalia.farhat04@gmail.com<br> <br>Excited to collaborate with you! 🚀
+Hi there! 👋 I'm an undergrad student currently pursuing a degree in Electronics and Communication Engineering (ECE). I'm passionate about blending hardware and software solutions to create innovative and impactful projects. My interests include embedded systems, IoT, and software development, and I enjoy taking on challenges that push me to expand my knowledge and skills.<br><br>🔧 Skills: Python, C, HTML/CSS, MATLAB, Verilog, Markdown, Postman, API Documentation, API Testing<br><br>📫 Reach me at:<br><br>✉️ Email: aalia.farhat04@gmail.com<br> <br>Excited to collaborate with you! 🚀
 
 
 ## 🌐 Socials:
